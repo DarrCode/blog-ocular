@@ -10,3 +10,8 @@ Pasos para la instalacion del proyecto
 4) Ejecuat el comando *npm install* para instalar las dependencias de javascript
 5) Ejecuar el comando *npm run watch* para que se observen todos los cambios realizados en el front
 6) Ejecutar el comando *php artisan serv* para levantar un servidor local 
+
+Pasos para acceder a el Administrador
+
+1) dar click en el boton "login admin" ubicado en la parte derecha del navbar
+2) ingresar con el email "admin@test.com" y el password "secret123"
